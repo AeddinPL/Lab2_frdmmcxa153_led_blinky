@@ -1,0 +1,5 @@
+C:\Dev\NXP\Training\workspace\frdmmcxa153_led_blinky\CMSIS/core_cm33.h:2587:22:__NVIC_SetPriority	16	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_led_blinky\CMSIS/core_cm33.h:3140:26:SysTick_Config	16	static
+../board/peripherals.c:112:13:SysTick_init	8	static
+../board/peripherals.c:120:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:129:6:BOARD_InitBootPeripherals	8	static
